@@ -799,7 +799,6 @@
         "type"            :     ["Application"],
         "description"     :     "Will export selected sections into a CSV file",
         "repo"            :     "https://github.com/ukdtom/plex2csv.bundle",
-        "branch"          :     "master",
         "branches"        :     [{"name": "master", "label": "Stable"},{"name": "tommy-work", "label": "Beta"}],    
         "DeleteCacheDir"  :     false,
         "DeleteDataDir"   :     false,
